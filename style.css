@@ -1,22 +1,54 @@
+
 body{
-  background: blue;
+  background: #ffebb3;
+  text-align: center;
 }
 
 p{
   color: black; 
-  
-}
-h1{
-  text-align: center;
-}
-h2{
-  text-align: center;
-}
-footer{
-  background-color: #DBE9EE;
   text-align: center;
 }
 
+h1{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+}
+/* Footer */
+.box1{
+  background-color: #e8f8fc;
+  float: left;
+  height: 150px;
+  width: 100%;
+  border: none;
+  clear: both;
+  position: relative;
+  padding: 50px;
+  text-align: center;
+}
+
+.box2 {
+  background-color: #ffebb3;;
+  float: left;
+  height: 5px;
+  width: 100%;
+  border: none;
+  clear: both;
+  position: relative;
+  left: 80px;
+  padding: 50px;
+}
+
 .joanne{
+  text-align: center;
+}
+
+.slides{
   text-align: center;
 }
